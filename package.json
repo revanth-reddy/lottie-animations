@@ -1,5 +1,5 @@
 {
-  "name": "react-lottie-new",
+  "name": "lottie-animations",
   "version": "1.0.0",
   "description": "Lottie Animations Library for React",
   "main": "index.js",
@@ -9,15 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/revanth-reddy/react-lottie-new.git"
+    "url": "git+https://github.com/revanth-reddy/lottie-animations.git"
   },
   "keywords": [
     "react",
     "lottie",
+    "react-lottie",
+    "react-lottie-web",
+    "react-web-lottie",
+    "web-react-lottie",
+    "web-lottie-react",
     "web",
     "react-lottie",
     "lottie-web",
-    "react-lottie-new",
+    "lottie-web-react",
+    "lottie-animations",
     "animations",
     "lottie-animations",
     "react-animations"
@@ -25,9 +31,9 @@
   "author": "Revanth Reddy Malé",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/revanth-reddy/react-lottie-new/issues"
+    "url": "https://github.com/revanth-reddy/lottie-animations/issues"
   },
-  "homepage": "https://github.com/revanth-reddy/react-lottie-new#readme",
+  "homepage": "https://github.com/revanth-reddy/lottie-animations#readme",
   "peerDependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
