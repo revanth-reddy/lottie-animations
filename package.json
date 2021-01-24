@@ -1,0 +1,44 @@
+{
+  "name": "react-lottie-web",
+  "version": "1.0.0",
+  "description": "Lottie Animations Library for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-file index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revanth-reddy/react-lottie-web.git"
+  },
+  "keywords": [
+    "react",
+    "lottie",
+    "web",
+    "react-lottie",
+    "lottie-web",
+    "react-lottie-web",
+    "animations",
+    "lottie-animations",
+    "react-animations"
+  ],
+  "author": "Revanth Reddy Malé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revanth-reddy/react-lottie-web/issues"
+  },
+  "homepage": "https://github.com/revanth-reddy/react-lottie-web#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "lottie-web": "^5.7.6",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {}
+}
